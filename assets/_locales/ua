@@ -1,0 +1,71 @@
+{
+    "filter": {
+        "message": "Фільтр"
+    },
+    "filter_comments": {
+        "message": "Фільтр коментарів"
+    },
+    "enable_by_default": {
+        "message": "Увімкнути фільтр за замовчуванням"
+    },
+    "show_filter_button": {
+        "message": "Показувати кнопку фільтра"
+    },
+    "page_reload_required": {
+        "message": "Потрібно оновити сторінку"
+    },
+    "filter_replies": {
+        "message": "Фільтрувати відповіді"
+    },
+    "languages": {
+        "message": "Мови"
+    },
+    "filter_by_language": {
+        "message": "Увімкнути мовний фільтр"
+    },
+    "filter_by_word": {
+        "message": "Увімкнути фільтр слів"
+    },
+    "block_selected_languages": {
+        "message": "Використовувати як чорний список"
+    },
+    "filter_by_regular_expression": {
+        "message": "Використовувати регулярні вирази"
+    },
+    "unknown": {
+        "message": "Unknown"
+    },
+    "select_language": {
+        "message": "─ Оберіть мову ─"
+    },
+    "add_this_language": {
+        "message": "Додати цю мову"
+    },
+    "remove_this_language": {
+        "message": "Видалити цю мову"
+    },
+    "blocked_words": {
+        "message": "Заблоковані слова"
+    },
+    "blocked_words_description": {
+        "message": "Кожне слово з нового рядка."
+    },
+    "clear": {
+        "message": "Очистити"
+    },
+    "save": {
+        "message": "Зберегти"
+    },
+    "save_blocked_words": {
+        "message": "Зберегти список"
+    },
+    "reset_settings": {
+        "message": "Скинути налаштування"
+    },
+    "visit_homepage": {
+        "message": "Домашня сторінка"
+    },
+    "donate": {
+        "message": "Пожертвувати $$5"
+    }
+}
